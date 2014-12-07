@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">No items to display</string>
+
+    <string-array name="android_names">
+        <item>Array Item 1</item>
+        <item>Array Item 2</item>
+        <item>Array Item 3</item>
+        <item>Array Item 4</item>
+        <item>Array Item 5</item>
+        <item>Array Item 6</item>
+        <item>Array Item 7</item>
+        <item>Array Item 8</item>
+        <item>Array Item 9</item>
+    </string-array>
+
+    <string name="error_title">Oops Sorry!</string>
+    <string name="error_message">Error loading JSON data</string>
+    <string name="title_activity_blog_web_view">Blog Post View</string>
+
+</resources>
